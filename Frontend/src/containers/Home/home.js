@@ -769,7 +769,7 @@ const Home = ({
                 Simple yet effective, right?
 
             </p>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/a7NJ6Gek9v4?si=-LMxh56_SNYyfx0e"
+            <iframe src="https://www.youtube.com/embed/a7NJ6Gek9v4?si=-LMxh56_SNYyfx0e"
                     title="YouTube video player" frameBorder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                     referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
@@ -785,7 +785,7 @@ const Home = ({
                 with trust in his channel instead of a bunch of frustrated negative comments.
 
             </p>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/3pAnRKD4raY?si=bVcCpy99NuUwz7pw"
+            <iframe src="https://www.youtube.com/embed/3pAnRKD4raY?si=bVcCpy99NuUwz7pw"
                     title="YouTube video player" frameBorder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                     referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
