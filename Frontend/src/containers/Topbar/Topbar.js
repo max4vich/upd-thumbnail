@@ -3,6 +3,7 @@ import logo from '../../images/download YouTube Thumbnail 2.png'
 const Topbar = () => {
     return (
         <div
+            id='tool'
             className="navbar py-5 sm:py-10 px-5 md:px-20 lg:px-48 flex flex-col sm:flex-row items-center justify-between">
             {/* Logo and Hamburger Menu */}
             <div className="flex justify-between w-full">
