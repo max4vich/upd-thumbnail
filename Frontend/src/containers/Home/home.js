@@ -738,7 +738,7 @@ const Home = ({
                 midst of performing some Herculean task. In this case, he is shown struggling with a snake around his
                 neck. And guess what? People are less likely to scroll forward when they see such eye-popping stills.
             </p>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/KOEfDvr4DcQ?si=eIzwuqLPpr3q_-Rc"
+            <iframe src="https://www.youtube.com/embed/KOEfDvr4DcQ?si=eIzwuqLPpr3q_-Rc"
                     title="YouTube video player" frameBorder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                     referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
@@ -753,7 +753,7 @@ const Home = ({
                 cute and exaggerated joyful expression further stirs up a sense of suspense that hooks the viewers to
                 open the video. As a result, the number of views of the video increases.
             </p>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/By_Cn5ixYLg?si=hDCeojDJAKZ-GDgM"
+            <iframe src="https://www.youtube.com/embed/By_Cn5ixYLg?si=hDCeojDJAKZ-GDgM"
                     title="YouTube video player" frameBorder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                     referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
