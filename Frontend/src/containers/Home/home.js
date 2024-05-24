@@ -348,6 +348,11 @@ const Home = ({
                 Therefore, there is no need for any conversion. You can upload it directly for your video, ideally
                 after making some changes to avoid any copyright issues, if the original thumbnail is not yours.
             </p>
+            <br/>
+            <br/>
+            <a href='#tool' className='download_button'>
+                Download YouTube Thumbnail Now
+            </a>
             <h1 id='basics' className={`text-3xl lg:text-5xl mb-16 mt-16 font-extrabold text-gray-800`}>
                 YouTube Thumbnails - The basics
             </h1>
@@ -796,6 +801,10 @@ const Home = ({
                 truly attracts and converts your viewers. Use our free YouTube Thumbnail Downloader, whenever you want!
 
             </p>
+            <br/> <br/>
+            <a href='#tool' className='download_button'>
+                Download YouTube Thumbnail Now
+            </a>
         </div>
 
 

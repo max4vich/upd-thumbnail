@@ -48,7 +48,7 @@ a {
   all: initial;
 }
 
- {
+{
   font-weight: 100;
 }
 
@@ -79,4 +79,12 @@ h2 b {
   margin-top: 16px;
   width: 60%;
   aspect-ratio: initial;
+}
+
+.download_button {
+  padding: 15px 20px;
+  background: red;
+  border-radius: 20px;
+  text-decoration: none;
+  color: white;
 }
